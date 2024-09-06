@@ -1,0 +1,5 @@
+C:\Users\valwe\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/valwe/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\valwe\CLionProjects\Snake3D -B C:\Users\valwe\CLionProjects\Snake3D\cmake-build-debug
+-- engine found at: C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/valwe/CLionProjects/Snake3D/cmake-build-debug

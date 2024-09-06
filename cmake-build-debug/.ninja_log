@@ -1,0 +1,13 @@
+# ninja log v6
+5	499	7473447056486453	CMakeFiles/Snake3D.dir/main.cpp.obj	5beb58ed526456c7
+499	590	7473447061424908	Snake3D.exe	5c38c576640558e9
+2	197	7473455018569136	build.ninja	9ae047807c2d6651
+4	427	7473446614101886	C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug/CMakeFiles/WurstbudeEngine.dir/library.cpp.obj	5d6de7743d11d5d8
+4	531	7473437175757955	&{path_engine_build}/CMakeFiles/WurstbudeEngine.dir/library.cpp.obj	a84f9a9b0a7ae076
+2	9	7473447047955428	clean	6bb8e61b322d7b6c
+2	508	7473447049008952	C:/Users/valwe/CLionProjects/Snake3D/WurstbudeEngine/cmake-build-debug/CMakeFiles/WurstbudeEngine.dir/library.cpp.obj	5ed3de5fa13b1c76
+533	598	7473445763998370	libWurstbudeEngine.dll	cb0a8eee089674b6
+428	491	7473446618901164	C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug/libWurstbudeEngine.dll	b310e01e0ffa5658
+428	491	7473446618901164	C:/Users/valwe/CLionProjects/WurstbudeEngine/cmake-build-debug/libWurstbudeEngine.dll.a	b310e01e0ffa5658
+509	574	7473447054666089	C:/Users/valwe/CLionProjects/Snake3D/WurstbudeEngine/cmake-build-debug/libWurstbudeEngine.dll	1ffccf09b15cc70f
+509	574	7473447054666089	C:/Users/valwe/CLionProjects/Snake3D/WurstbudeEngine/cmake-build-debug/libWurstbudeEngine.dll.a	1ffccf09b15cc70f
