@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 23)
 set(path_engine ../WurstbudeEngine)
 set(path_engine_build ${path_engine}/cmake-build-debug)
 
-#add_subdirectory(${path_engine} ${path_engine_build})
+add_subdirectory(${path_engine} ${path_engine_build})
 
 find_library(wurstbudeLib NAMES WurstbudeEngine PATHS ${path_engine_build} REQUIRED)
 
